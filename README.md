@@ -55,23 +55,17 @@
 
 ## 📂 Featured Projects
 
-### 📌 [Project 1: Sales Data Analysis Dashboard](https://github.com/yourusername/project1)
-> **Tech:** Python, Pandas, Power BI, PostgreSQL
-- Analyzed 1M+ sales records to uncover trends
-- Built an interactive Power BI dashboard
+### 📌 [Project 1: Smart Retail Supply Chain & Inventory Intelligence](https://github.com/yourusername/project1)
+> **Tech:** Python, Pandas, NumPy, Matplotlib, Power BI, PostgreSQL
+- Built an end-to-end retail analytics and supply-chain solution using Python ETL and PostgreSQL, integrating 51,290 sales transactions, 990 inventory records and 296 return records into an analysis-ready data warehouse.
+- Developed 35+ DAX measures and KPIs to analyze sales, profitability, inventory turnover, reorder risk, stock gaps, product performance and year-over-year trends.
 - Automated ETL pipeline with Python
 
-### 📌 [Project 2: COVID-19 Data Visualization](https://github.com/yourusername/project2)
-> **Tech:** Python, Matplotlib, Seaborn, NumPy
-- Cleaned and merged data from multiple APIs via Postman
-- Created heatmaps, time-series plots, and trend analysis
-- Published insights in a Jupyter Notebook
-
-### 📌 [Project 3: Customer Churn Prediction](https://github.com/yourusername/project3)
-> **Tech:** Python, Statistics, Scikit-learn, MySQL
-- Performed hypothesis testing on customer behavior
-- Built a churn prediction model with 87% accuracy
-- Deployed a React dashboard to visualize results
+### 📌 [Project 2: Workforce Analytics Platform](https://github.com/yourusername/project2)
+> **Tech:** Python, SQL, Matplotlib, Pandas, NumPy, Streamlit, Plotly
+-	Built an end-to-end workforce analytics platform analyzing 1,470+ employee records to identify trends in workforce performance, attrition and employee  demographics
+- Cleaned and analyzed HR data using Python (Pandas, NumPy) and performed EDA and Root Cause Analysis (RCA) to identify factors associated with employee attrition
+- Developed interactive dashboards with 15+ KPIs using Streamlit and Plotly along with a Python–PostgreSQL ETL pipeline and an action plan generator for data-driven workforce insights.
 
 ---
 
