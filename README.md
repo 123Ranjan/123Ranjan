@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Machine Learning & Advanced Statistics**
 - 👯 I'm looking to collaborate on **Open Source Data Projects**
 - 💬 Ask me about **Python, SQL, Power BI, Statistics, Pandas**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **malayamohanty2002@gmail.com**
 - ⚡ Fun fact: **I turn coffee ☕ into insights 📊**
 
 ---
