@@ -11,14 +11,14 @@
 
 Hi, I'm Malaya Ranjan Mohanty, a Data Analyst passionate about turning raw data into meaningful insights and building data-driven solutions.
 
-🔭 Currently working on Data Analysis & Visualization projects
-🌱 Currently learning Machine Learning & Advanced Statistics
-💻 Skilled in Python, SQL, Power BI, Pandas & NumPy
-📊 Interested in Data Analytics, Business Intelligence & Data Visualization
-👯 Looking to collaborate on Open Source Data & Analytics Projects
-💬 Ask me about Python, SQL, Power BI, Statistics & Data Analysis
-📫 Reach me at malayamohanty2002@gmail.com
-⚡ Fun fact: I turn coffee ☕ into insights 📊
+- 🔭 Currently working on Data Analysis & Visualization projects
+- 🌱 Currently learning Machine Learning & Advanced Statistics
+- 💻 Skilled in Python, SQL, Power BI, Pandas & NumPy
+- 📊 Interested in Data Analytics, Business Intelligence & Data Visualization
+- 👯 Looking to collaborate on Open Source Data & Analytics Projects
+- 💬 Ask me about Python, SQL, Power BI, Statistics & Data Analysis
+- 📫 Reach me at malayamohanty2002@gmail.com
+- ⚡ Fun fact: I turn coffee ☕ into insights 📊
 
 ---
 
