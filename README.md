@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
-<h3 align="center">A passionate Data Analyst from India 📊</h3>
+<h3 align="center">A passionate Data Analyst 📊</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+Enthusiast;SQL+%7C+Power+BI+%7C+Statistics;Turning+Data+into+Insights+%F0%9F%93%88" alt="Typing SVG" />
