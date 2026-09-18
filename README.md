@@ -65,7 +65,7 @@ Hi, I'm Malaya Ranjan Mohanty, a Data Analyst passionate about turning raw data 
 - Developed 35+ DAX measures and KPIs to analyze sales, profitability, inventory turnover, reorder risk, stock gaps, product performance and year-over-year trends.
 - Automated ETL pipeline with Python
 
-### 📌 [Project 2: Workforce Analytics Platform](https://github.com/yourusername/project2)
+### 📌 [Project 2: Workforce Analytics Platform](https://github.com/123Ranjan/AI-workforce-management-system)
 > **Tech:** Python, SQL, Matplotlib, Pandas, NumPy, Streamlit, Plotly
 -	Built an end-to-end workforce analytics platform analyzing 1,470+ employee records to identify trends in workforce performance, attrition and employee  demographics
 - Cleaned and analyzed HR data using Python (Pandas, NumPy) and performed EDA and Root Cause Analysis (RCA) to identify factors associated with employee attrition
