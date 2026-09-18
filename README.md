@@ -9,12 +9,16 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Data Analysis & Visualization projects**
-- 🌱 I'm currently learning **Machine Learning & Advanced Statistics**
-- 👯 I'm looking to collaborate on **Open Source Data Projects**
-- 💬 Ask me about **Python, SQL, Power BI, Statistics, Pandas**
-- 📫 How to reach me: **malayamohanty2002@gmail.com**
-- ⚡ Fun fact: **I turn coffee ☕ into insights 📊**
+Hi, I'm Malaya Ranjan Mohanty, a Data Analyst passionate about turning raw data into meaningful insights and building data-driven solutions.
+
+🔭 Currently working on Data Analysis & Visualization projects
+🌱 Currently learning Machine Learning & Advanced Statistics
+💻 Skilled in Python, SQL, Power BI, Pandas & NumPy
+📊 Interested in Data Analytics, Business Intelligence & Data Visualization
+👯 Looking to collaborate on Open Source Data & Analytics Projects
+💬 Ask me about Python, SQL, Power BI, Statistics & Data Analysis
+📫 Reach me at malayamohanty2002@gmail.com
+⚡ Fun fact: I turn coffee ☕ into insights 📊
 
 ---
 
@@ -66,8 +70,6 @@
 -	Built an end-to-end workforce analytics platform analyzing 1,470+ employee records to identify trends in workforce performance, attrition and employee  demographics
 - Cleaned and analyzed HR data using Python (Pandas, NumPy) and performed EDA and Root Cause Analysis (RCA) to identify factors associated with employee attrition
 - Developed interactive dashboards with 15+ KPIs using Streamlit and Plotly along with a Python–PostgreSQL ETL pipeline and an action plan generator for data-driven workforce insights.
-
----
 
 ---
 
