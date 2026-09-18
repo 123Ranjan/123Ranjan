@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Ranjan</h1>
 <h3 align="center">A passionate Data Analyst from India 📊</h3>
 
 <p align="center">
