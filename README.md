@@ -59,7 +59,7 @@ Hi, I'm Malaya Ranjan Mohanty, a Data Analyst passionate about turning raw data 
 
 ## 📂 Featured Projects
 
-### 📌 [Project 1: Smart Retail Supply Chain & Inventory Intelligence](https://github.com/yourusername/project1)
+### 📌 [Project 1: Smart Retail Supply Chain & Inventory Intelligence](https://github.com/123Ranjan/Smart-Retail-Supply-Chain-Inventory-Intelligence-Platform)
 > **Tech:** Python, Pandas, NumPy, Matplotlib, Power BI, PostgreSQL
 - Built an end-to-end retail analytics and supply-chain solution using Python ETL and PostgreSQL, integrating 51,290 sales transactions, 990 inventory records and 296 return records into an analysis-ready data warehouse.
 - Developed 35+ DAX measures and KPIs to analyze sales, profitability, inventory turnover, reorder risk, stock gaps, product performance and year-over-year trends.
